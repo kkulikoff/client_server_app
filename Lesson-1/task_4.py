@@ -12,7 +12,7 @@ def magic_type(arr):
         word = word.encode('utf-8')                        # преобразование в байты
         print(f'Содержимое: {word}, тип: {type(word)}')    # вывод данных в байтах
         word = word.decode('utf-8')                        # обратное преобразование
-        print(f'Содержимое: {word}, тип: {type(word)}\n')  # вывод данных в байтах
+        print(f'Содержимое: {word}, тип: {type(word)}\n')  # вывод данных в str
 
 
 magic_type(WORDS)
