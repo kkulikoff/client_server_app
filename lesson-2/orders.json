@@ -1,0 +1,25 @@
+{
+    "orders": [
+        {
+            "item": "Notebook",
+            "quantity": 1,
+            "price": 30000,
+            "buyer": "username",
+            "date": "04.03.2018"
+        },
+        {
+            "item": "camera",
+            "quantity": 20,
+            "price": 5600,
+            "buyer": "anonymous",
+            "date": "f'{datetime.datetime.now()}'"
+        },
+        {
+            "item": "camera",
+            "quantity": 20,
+            "price": 5600,
+            "buyer": "anonymous",
+            "date": "2021-11-21 21:35:13.543683"
+        }
+    ]
+}

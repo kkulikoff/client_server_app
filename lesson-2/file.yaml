@@ -1,0 +1,11 @@
+items:
+- camera
+- printer
+- metal_detector
+- baton
+price:
+  baton: 10€
+  camera: 500€-1000€
+  metal_detector: 100€
+  printer: 500€-600€
+quantity: 4
