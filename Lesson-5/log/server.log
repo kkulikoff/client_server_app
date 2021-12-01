@@ -1,0 +1,6 @@
+2021-12-01 21:05:37,461 - INFO - server - После параметра '-a' необходимо указать адрес, который будет слушать сервер. 
+2021-12-01 21:44:57,491 - INFO - server - После параметра '-p' необходимо указать номер порта. 
+2021-12-01 21:46:14,618 - INFO - server - {'action': 'presence', 'time': 1638384374.6188772, 'user': {'account_name': 'Guest'}} 
+2021-12-01 21:51:02,418 - INFO - server - {'action': 'presence', 'time': 1638384662.418761, 'user': {'account_name': 'Guest'}} 
+2021-12-01 21:52:31,070 - INFO - server - {'action': 'presence', 'time': 1638384751.0706706, 'user': {'account_name': 'Guest'}} 
+2021-12-01 22:02:35,908 - INFO - server - {'action': 'presence', 'time': 1638385355.9088614, 'user': {'account_name': 'Guest'}} 
