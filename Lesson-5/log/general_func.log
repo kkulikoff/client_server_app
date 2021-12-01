@@ -1,0 +1,16 @@
+2021-12-01 21:46:14,618 - DEBUG - general_func - b'{"action": "presence", "time": 1638384374.6188772, "user": {"account_name": "Guest"}}' 
+2021-12-01 21:46:14,618 - DEBUG - general_func - {'action': 'presence', 'time': 1638384374.6188772, 'user': {'account_name': 'Guest'}} 
+2021-12-01 21:46:14,618 - DEBUG - general_func - b'{"response": 200}' 
+2021-12-01 21:46:14,618 - DEBUG - general_func - {'response': 200} 
+2021-12-01 21:51:02,418 - DEBUG - general_func - general_func.py - b'{"action": "presence", "time": 1638384662.418761, "user": {"account_name": "Guest"}}' 
+2021-12-01 21:51:02,418 - DEBUG - general_func - {'action': 'presence', 'time': 1638384662.418761, 'user': {'account_name': 'Guest'}} 
+2021-12-01 21:51:02,418 - DEBUG - general_func - b'{"response": 200}' 
+2021-12-01 21:51:02,418 - DEBUG - general_func - general_func.py - {'response': 200} 
+2021-12-01 21:52:31,070 - DEBUG - general_func - send_message - b'{"action": "presence", "time": 1638384751.0706706, "user": {"account_name": "Guest"}}' 
+2021-12-01 21:52:31,070 - DEBUG - general_func - {'action': 'presence', 'time': 1638384751.0706706, 'user': {'account_name': 'Guest'}} 
+2021-12-01 21:52:31,070 - DEBUG - general_func - b'{"response": 200}' 
+2021-12-01 21:52:31,070 - DEBUG - general_func - get_message - {'response': 200} 
+2021-12-01 22:02:35,908 - DEBUG - general_func - send_message - b'{"action": "presence", "time": 1638385355.9088614, "user": {"account_name": "Guest"}}' 
+2021-12-01 22:02:35,908 - DEBUG - general_func - get_message - {'action': 'presence', 'time': 1638385355.9088614, 'user': {'account_name': 'Guest'}} 
+2021-12-01 22:02:35,908 - DEBUG - general_func - send_message - b'{"response": 200}' 
+2021-12-01 22:02:35,908 - DEBUG - general_func - get_message - {'response': 200} 
