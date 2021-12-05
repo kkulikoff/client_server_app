@@ -1,0 +1,18 @@
+{'action': 'presence', 'time': 1638723089.248166, 'user': {'account_name': 'Guest'}}
+2021-12-05 19:51:30,139 - INFO - server - {'action': 'presence', 'time': 1638723089.248166, 'user': {'account_name': 'Guest'}} 
+Разбор сообщения от клиента : {'action': 'presence', 'time': 1638723089.248166, 'user': {'account_name': 'Guest'}}
+2021-12-05 19:51:30,139 - DEBUG - server - Разбор сообщения от клиента : {'action': 'presence', 'time': 1638723089.248166, 'user': {'account_name': 'Guest'}} 
+{'action': 'presence', 'time': 1638723206.948, 'user': {'account_name': 'Guest'}}
+2021-12-05 19:53:26,954 - INFO - server - {'action': 'presence', 'time': 1638723206.948, 'user': {'account_name': 'Guest'}} 
+Разбор сообщения от клиента : {'action': 'presence', 'time': 1638723206.948, 'user': {'account_name': 'Guest'}}
+2021-12-05 19:53:26,954 - DEBUG - server - Разбор сообщения от клиента : {'action': 'presence', 'time': 1638723206.948, 'user': {'account_name': 'Guest'}} 
+Была вызвана функция get_message c параметрами (<socket.socket fd=372, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 1111), raddr=('127.0.0.1', 54063)>,), {}. Вызов из модуля collective.general_func.Вызов из функции main().Вызов из функции main
+2021-12-05 19:58:35,436 - DEBUG - decorators - Была вызвана функция get_message c параметрами (<socket.socket fd=372, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 1111), raddr=('127.0.0.1', 54063)>,), {}. Вызов из модуля collective.general_func.Вызов из функции main().Вызов из функции main 
+{'action': 'presence', 'time': 1638723515.420764, 'user': {'account_name': 'Guest'}}
+2021-12-05 19:58:35,436 - INFO - server - {'action': 'presence', 'time': 1638723515.420764, 'user': {'account_name': 'Guest'}} 
+Разбор сообщения от клиента : {'action': 'presence', 'time': 1638723515.420764, 'user': {'account_name': 'Guest'}}
+2021-12-05 19:58:35,436 - DEBUG - server - Разбор сообщения от клиента : {'action': 'presence', 'time': 1638723515.420764, 'user': {'account_name': 'Guest'}} 
+Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1638723515.420764, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля __main__.Вызов из функции main().Вызов из функции main
+2021-12-05 19:58:35,436 - DEBUG - decorators - Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1638723515.420764, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля __main__.Вызов из функции main().Вызов из функции main 
+Была вызвана функция send_message c параметрами (<socket.socket fd=372, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 1111), raddr=('127.0.0.1', 54063)>, {'response': 200}), {}. Вызов из модуля collective.general_func.Вызов из функции main().Вызов из функции main
+2021-12-05 19:58:35,436 - DEBUG - decorators - Была вызвана функция send_message c параметрами (<socket.socket fd=372, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 1111), raddr=('127.0.0.1', 54063)>, {'response': 200}), {}. Вызов из модуля collective.general_func.Вызов из функции main().Вызов из функции main 
